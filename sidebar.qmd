@@ -3,14 +3,20 @@ title: ""
 css: projects.css
 ---
 
+::: {style="text-align: center;"}
 ![](images/fire1.jpg)
 
-**AtkinsLab @ VCU**
+### **AtkinsLab \@ VCU**
+
+![](images/VCU_Seal_sans_logotype.svg){width="120px"}
 
 [School of Life Sciences and Sustainability](https://slss.vcu.edu)
 
-Virginia Commonwealth University · Richmond, VA
+Virginia Commonwealth University
 
-[jwatkins6@vcu.edu](mailto:jwatkins6@vcu.edu)
+Richmond, VA
 
-[GitHub](https://github.com/atkinslab)
+[jwatkins6\@vcu.edu](mailto:jwatkins6@vcu.edu)
+
+<a href="https://github.com/atkinslab"><i class="bi bi-github" style="font-size: 1.5rem;"></i></a>   <a href="https://bsky.app/profile/atkinsjeff.bsky.social"><i class="bi bi-bluesky" style="font-size: 1.5rem;"></i></a>
+:::

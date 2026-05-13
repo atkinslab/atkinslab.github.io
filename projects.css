@@ -13,3 +13,13 @@ h3 a:hover {
   color: #ff7a3d;
   text-decoration: none;
 }
+
+a {
+  color: #00bc8c;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00bc8c;
+  text-decoration: underline;
+}
