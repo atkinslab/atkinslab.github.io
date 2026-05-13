@@ -2,5 +2,9 @@
 title: "Opportunities"
 ---
 
-coming soon!
----
+# Upcoming Opportunities
+
+- We are recruiting **1 undergraduate student** to assist with forest structural 
+estimation using multiple active remote sensing platforms.
+
+- We are recruiting **2 Ph.D. students** to begin **Fall 2027**. Details coming soon.

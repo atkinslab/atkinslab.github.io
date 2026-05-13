@@ -1,1 +1,51 @@
 /* css styles */
+
+/* navigation */
+.navbar {
+  background-image: url("images/fire1.jpg") !important;
+  background-size: cover;
+  background-position: center;
+  background-color: transparent !important;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: white !important;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+}
+
+.navbar-logo {
+  max-height: 80px;
+}
+
+/* figures */
+.figure-caption {
+  font-size: 0.85em;
+  color: #555;
+  font-style: italic;
+  margin-top: 0.5em;
+}
+
+.quarto-layout-panel img {
+  height: 400px;
+  width: 100%;
+  object-fit: cover;
+}
+
+/* projects page */
+body.projects h3 {
+  color: #e05c1a;
+  text-decoration: none;
+}
+
+body.projects h3 a {
+  color: #e05c1a;
+  text-decoration: none;
+}
+
+body.projects h3 a:hover {
+  color: #ff7a3d;
+  text-decoration: none;
+}

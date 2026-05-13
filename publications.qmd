@@ -1,0 +1,6 @@
+---
+title: "Publications"
+---
+
+For a full and up-to-date list of publications, visit the 
+[Jeff Atkins Google Scholar page](https://scholar.google.com/citations?hl=en&user=Ea33pwcAAAAJ&view_op=list_works&sortby=pubdate).

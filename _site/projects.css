@@ -1,0 +1,15 @@
+/* projects.css */
+h3 {
+  color: #e05c1a;
+  text-decoration: none;
+}
+
+h3 a {
+  color: #e05c1a;
+  text-decoration: none;
+}
+
+h3 a:hover {
+  color: #ff7a3d;
+  text-decoration: none;
+}
