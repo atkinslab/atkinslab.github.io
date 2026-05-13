@@ -1,5 +1,5 @@
 ---
-title: "AtkinsLab @ VCU"
+title: ""
 ---
 
 ## Welcome
@@ -16,7 +16,7 @@ Updates coming soon
 
 ## News
 
--   **August 2026** --- \[Recent update or announcement\]
+-   **June 2026** --- \[Recent update or announcement\]
 
 ## Contact
 

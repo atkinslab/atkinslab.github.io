@@ -1,0 +1,16 @@
+---
+title: ""
+css: projects.css
+---
+
+![](images/fire1.jpg)
+
+**AtkinsLab @ VCU**
+
+[School of Life Sciences and Sustainability](https://slss.vcu.edu)
+
+Virginia Commonwealth University · Richmond, VA
+
+[jwatkins6@vcu.edu](mailto:jwatkins6@vcu.edu)
+
+[GitHub](https://github.com/atkinslab)

@@ -21,6 +21,11 @@ website:
         text: Data
       - href: opportunities.qmd
         text: Opportunities
+  sidebar:
+    style: "floating"
+    contents:
+      - text: " "
+    header: "sidebar.qmd"
 
 format:
   html:

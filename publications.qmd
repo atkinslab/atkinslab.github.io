@@ -1,5 +1,5 @@
 ---
-title: "publications"
+title: ""
 css: projects.css
 ---
 
