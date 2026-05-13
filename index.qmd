@@ -1,11 +1,23 @@
 ---
-title: "atkinslabvcu.github.io"
+title: "AtkinsLab @ VCU"
 ---
 
-This is a Quarto website.
+## Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The Atkins Lab is rooted in a fundamental question: how is the natural world built, and what does that mean for ecosystem function? We seek to understand how the physical and spatial structure of ecosystems influences the movement of energy and matter across scales - from the local scale to entire landscapes.
 
-```{r}
-1 + 1555
-```
+We are broadly trained ecosystem and Earth system scientists with research expertise spanning watershed biogeochemistry, remote sensing, forest structure analysis, quantitative ecology, and carbon and water cycling dynamics. Our work is integrative and systems-based, combining multiple data sources and methodologies including modeling, remote sensing, field measurements, manipulative experiments, and long-term datasets.
+
+Beyond conducting research, we are committed to building open-source tools for the scientific community - R packages, dashboards, and datasets - engaging with stakeholders and policymakers, and fostering collaboration across disciplines and international borders. We believe the most pressing questions in ecosystem science require moving beyond disciplinary boundaries, and that scientific insight must ultimately inform land management and policy decisions.
+
+## Research
+
+Updates coming soon
+
+## News
+
+-   **August 2026** --- \[Recent update or announcement\]
+
+## Contact
+
+For inquiries, please visit the [Opportunities](opportunities.qmd) page or reach out directly at [jwatkins6\[at\] vcu.edu](mailto:jwatkins6@vcu.edu).
