@@ -1,6 +1,22 @@
 ---
-title: "Publications"
+title: "publications"
+css: projects.css
 ---
 
-For a full and up-to-date list of publications, visit the 
-[Jeff Atkins Google Scholar page](https://scholar.google.com/citations?hl=en&user=Ea33pwcAAAAJ&view_op=list_works&sortby=pubdate).
+## Recent Publications
+
+### **Beyond Ice: NASA's ICESat-2 spaceborne lidar mission for land and vegetation applications**
+
+[Silva et al. 2026](https://doi.org/10.1109/MGRS.2026.3666794): Led by Dr. Carlos Silva (U of Florida), PI on our ICESat-2/NASA grant, we detail the uses of ICESat-2 data beyond the ice, cloud, and elevation applications it was designed for. This work was funded by the NASA ICESat-2 program and published in IEEE Geoscience and Remote Sensing Magazine
+
+### **Influences of Structural and Species Diversity on Forest Resistance to Drought**
+
+[Crockett et al. 2026](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.70351): Published in Ecology Letters this past spring and led by former postdoc, now University of Northern British Columbia professor Erin Crockett, we used FIA and GEDI data to show connections between forest species diversity and resistance to drought. This work was funded by the USDA Forest Service.
+
+### **Individual Tree and Sapling Aboveground Biomass (AGB) Estimates for 35 NEON Terrestrial Observation Sites for 2014–2023**
+
+[Atkins et al. 2025](https://doi.org/10.1029/2024JG008381):  We recently published a data paper in JGR-Biogeosciences outlining methods behind the determination of aboveground woody biomass for all 35 NEON sites populated by woody tree species. This work was in part funded by the USDA Forest Service was in partnership with collaborators at NEON, VCU, and Oklahoma State University. 
+
+
+
+For a full and up-to-date list of publications, visit the [Jeff Atkins Google Scholar page](https://scholar.google.com/citations?hl=en&user=Ea33pwcAAAAJ&view_op=list_works&sortby=pubdate).
